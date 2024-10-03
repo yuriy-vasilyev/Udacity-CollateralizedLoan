@@ -4,7 +4,7 @@ require("dotenv/config");
 
 const config = {
   solidity: {
-    version: "0.8.19",
+    version: "0.8.27",
     settings: {
       optimizer: {
         enabled: true,
